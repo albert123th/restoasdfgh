@@ -26,35 +26,21 @@ const About = () => {
           },
         }}
       >
-        <Typography variant="h4">Welcome To My Resturant</Typography>
+        <Typography variant="h4">Welcome To My Resto</Typography>
+        <p>We offer delicious food for sale across India, both online and offline. You can visit our store to make purchases in person or conveniently order from our website. Enjoy a wide variety of delectable dishes, crafted with the finest ingredients, delivered right to your doorstep or available for pickup in-store. Experience the best of Indian cuisine with our easy and accessible service.
+        </p>At our company, we are dedicated to bringing the finest and most delicious food to customers all across India, both through our online platform and our physical stores. Our mission is to make high-quality, delectable dishes accessible to everyone, whether you prefer the convenience of ordering from the comfort of your home or the experience of visiting our stores in person.
+
+For those who enjoy the ease of online shopping, our website offers a seamless and user-friendly interface where you can browse through our extensive menu, place your order, and have it delivered right to your doorstep. Our online platform ensures that you can enjoy our delicious offerings no matter where you are in India, with just a few clicks. We prioritize timely delivery and maintain the highest standards of food quality and safety, ensuring that your meals arrive fresh and flavorful.
+
+On the other hand, if you prefer the traditional shopping experience, we welcome you to visit our physical stores. Our friendly and knowledgeable staff are always on hand to assist you, whether you're looking to try something new or need help finding your favorite dishes. In our stores, you can see, smell, and even sample some of our offerings, making your food purchasing experience interactive and enjoyable.
+
+We take great pride in the variety and quality of our food.<br></br> Our menu is crafted with the finest ingredients, showcasing a diverse range of dishes that cater to all tastes and preferences. Whether you're craving traditional Indian cuisine, looking for a healthy meal option, or wanting to indulge in something sweet, we have something to satisfy every palate.
+
+By combining the convenience of online ordering with the personal touch of our in-store experience, we strive to provide the best of both worlds to our customers. Our goal is to make it easy and enjoyable for you to access delicious food, no matter how you choose to shop with us.
+
+Experience the best of Indian cuisine with our reliable and accessible service, and let us bring the joy of great food to you.
         <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat quod,
-          suscipit, aperiam totam autem culpa cum eveniet dolorum quasi est
-          perspiciatis laborum. Nam recusandae nihil quia odio voluptatibus
-          facere omnis facilis rerum? Ab eum beatae nobis reiciendis, qui
-          temporibus aliquid, nesciunt velit sed quam recusandae necessitatibus,
-          tempora maxime. Repellendus incidunt, maxime labore dolorum eos
-          aperiam unde? At veritatis nesciunt eos quas cupiditate blanditiis est
-          quam maiores, amet, soluta exercitationem voluptatum, veniam
-          assumenda? Ratione perferendis officiis deserunt nostrum aspernatur
-          sed asperiores! Earum sunt placeat ducimus sint, deleniti amet esse
-          saepe voluptatem commodi laudantium quibusdam repellat nobis libero at
-          consectetur adipisci ipsa.
-        </p>
-        <br />
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi,
-          deserunt libero reprehenderit cum sint fugit cumque temporibus modi
-          facere eveniet amet obcaecati ducimus harum velit maxime vel qui
-          voluptatibus quam odio corrupti saepe, voluptas dolorum quidem
-          tempore? Esse sapiente molestias minus enim quisquam dolorum eum culpa
-          ullam impedit velit quo, corporis ducimus numquam dignissimos
-          inventore maiores. Nam deleniti itaque nostrum neque dolorum dolores,
-          aliquam, voluptatum sapiente doloribus laborum perspiciatis ipsam, quo
-          ut nisi distinctio sunt nihil est blanditiis perferendis eveniet
-          nesciunt! Nostrum, voluptatum eveniet repellat vel officia deleniti
-          tempore voluptatibus perferendis esse eaque temporibus porro?
-          Aspernatur beatae deleniti illo autem!
+          
         </p>
       </Box>
     </Layout>
